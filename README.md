@@ -14,7 +14,7 @@
 - loguru==0.5.3
 
 ## Architecture of TEM-GCN ( Motion-guided Graph)
-![image](src\MA.png)
+![Model Architecture](src/MA.png)
 # Data Preparation
 
 #### This project uses the NTU RGB+D skeleton datasets. Before running training or evaluation, please prepare the data as follows.
